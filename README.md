@@ -1,7 +1,6 @@
 ### Hi there, I'm Urazaev Nikolay - KennetUra
 <hr>
 
-- I am just learning
 ### Connect with me:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=whatsapp&logoColor=31F313)](https://wa.me/79521677813)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=34ADF3)](https://t.me/urazaevnn)
